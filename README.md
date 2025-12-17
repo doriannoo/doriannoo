@@ -1,7 +1,7 @@
 ## Hi, I’m Dorian 👋
 
 
-I’m a VG2 IT student at Elvebakken High School in Oslo, Norway. I’m interested in programming, web development, and technology, and I enjoy building practical projects while continuing to improve my technical skills.
+I’m an IT student at Elvebakken High School in Oslo, Norway. I’m interested in programming, web development, and technology, and I enjoy building practical projects while continuing to improve my technical skills.
 
 💻 What I’m working on
 
